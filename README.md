@@ -1,3 +1,15 @@
+[![GitHub release](https://img.shields.io/github/v/release/sebastienlecca-pixel/Law-E-Framework)](https://github.com/sebastienlecca-pixel/Law-E-Framework/releases/latest)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![Research Status](https://img.shields.io/badge/AI%20Safety-Emerging-orange)]()
+[![DOI](https://img.shields.io/badge/DOI-pending-lightgrey.svg)]()
+
+## 📚 Citation
+
+If you use Law E Framework in academic or industrial work, please cite:
+
+Favre-Lecca, S. (2025). *Law E Framework — Thermodynamic Governance for AI Reliability* (v0.1). GitHub. https://github.com/sebastienlecca-pixel/Law-E-Framework
+
+
 # Law E Framework — Thermodynamic Governance for AI Reliability
 
 Law E is an operational governance framework for modern AI systems based on thermodynamic information processing.
