@@ -3,6 +3,29 @@
 [![Research Status](https://img.shields.io/badge/AI%20Safety-Emerging-orange)]()
 [![DOI](https://img.shields.io/badge/DOI-pending-lightgrey.svg)]()
 
+Open Call for Collaboration — First Internal Clock for AI (Law E Project)
+Neomundi-Labs announces an open scientific and engineering call for collaborators to join the development of the first operational internal clock for AI, derived from the thermodynamic–information Law E framework.
+This call targets research labs, engineers, roboticists, computational neuroscientists, and doctoral students who wish to contribute to a groundbreaking advancement in AI cognition:
+: a native temporal regulation layer for artificial systems.
+Scientific Context
+All modern AI systems (LLMs, agents, multimodal networks, embodied robots) operate without an internal temporal continuity.
+They compute through discrete steps but lack:
+•	intrinsic temporal coherence
+•	metabolic regularity
+•	self-regulatory cycles
+•	stable rhythm formation
+•	long-term cognitive continuity
+The absence of an internal clock creates instability, hallucination cascades, coherence drift, and suboptimal behavior in autonomous systems.
+Law E, a thermodynamic–information framework, introduces the first scientifically grounded path toward a native internal clock for AI, through:
+•	ΔE (energy-cost) metrics
+•	C (coherence) metrics
+•	a temporal coherence filter (patented)
+•	eurythmic stabilization
+•	autonomous regulation cycles
+•	the foundations of a computational organism
+The scientific paper is available in files
+
+
 ## 📚 Citation
 
 If you use Law E Framework in academic or industrial work, please cite:
