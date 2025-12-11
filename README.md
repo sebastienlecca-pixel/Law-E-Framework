@@ -3,8 +3,7 @@
 [![Research Status](https://img.shields.io/badge/AI%20Safety-Emerging-orange)]()
 [![DOI](https://img.shields.io/badge/DOI-pending-lightgrey.svg)]()
 
-Open Call for Collaboration — First Internal Clock for AI (Law E Project)
-
+## Open Call for Collaboration — First Internal Clock for AI (Law E Project)
 Neomundi-Labs announces an open scientific and engineering call for collaborators to join the development of the first operational internal clock for AI, derived from the thermodynamic–information Law E framework.
 
 
